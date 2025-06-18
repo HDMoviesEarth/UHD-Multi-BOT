@@ -19,12 +19,13 @@ async def start_message(bot, message):
             )
     
     button = InlineKeyboardMarkup([[
-           InlineKeyboardButton("⚙️ ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/silicon_Botz")               
+           InlineKeyboardButton("🚀 ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/UHDBots_Support")               
                ],[            
-           InlineKeyboardButton("⚡ ʜᴇʟᴩ", callback_data="help"),
-           InlineKeyboardButton("📃 ᴀʙᴏᴜᴛ", callback_data="about") 
+           InlineKeyboardButton("🤗 ʜᴇʟᴩ", callback_data="help"),
+           InlineKeyboardButton("🗿 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ™", url="https://t.me/UHD_NETWORK"),
+           InlineKeyboardButton("🤖 ᴀʙᴏᴜᴛ", callback_data="about") 
                ],[
-           InlineKeyboardButton("📢 ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/Silicon_Bot_Update")
+           InlineKeyboardButton("📢 ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/UHD_Bots")
               ]])
 
     await message.reply_photo(
@@ -61,8 +62,8 @@ async def media_info(bot, m):
                                         
     if not md:
         buttons = [[
-            InlineKeyboardButton("✨️ sᴜᴘᴘᴏʀᴛ", url="https://t.me/silicon_botz"),
-            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ", url="https://t.me/silicon_Bot_Update")
+            InlineKeyboardButton("🚀 sᴜᴘᴘᴏʀᴛ", url="https://t.me/UHDBots_Support"),
+            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ", url="https://t.me/UHD_Bots")
         ]]       
         silicon = await m.reply("please wait....")
         if ff.photo:
