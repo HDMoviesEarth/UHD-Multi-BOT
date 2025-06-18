@@ -12,11 +12,11 @@ class txt(object):
 <b>╔════❰ ᴍᴜʟᴛɪ ᴛᴀsᴋɪɴɢ ᴘʀᴏ ❱═❍
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
-║┣⪼👦ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/silicon_admin_bot'>sɪʟɪᴄᴏɴ ᴅᴇᴠᴇʟoᴘᴇʀ ⚠️</a>
-║┣⪼❣️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/Silicon_Bot_Update>sɪʟɪᴄᴏɴ ʙᴏᴛᴢ</a>
-║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
+║┣⪼🧑‍💻ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ANKAN_Contact_BOT'>ᴀɴᴋᴀɴ</a>
+║┣⪼❤️ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/UHD_Bots>ᴜʜᴅ ʙᴏᴛs™</a>
+║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.java.com>ᴊᴀᴠᴀ</a>
 ║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
-║┣⪼🗒️ᴠᴇʀsɪᴏɴ : ᴍᴜʟᴛɪ ᴛᴀsᴋɪɴɢ v2.01.1
+║┣⪼🗒️ᴠᴇʀsɪᴏɴ : ᴜʜᴅ ᴍᴜʟᴛɪ ᴛᴀsᴋɪɴɢ v7.4
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍ </b>"""
 
