@@ -21,8 +21,8 @@ async def start_message(bot, message):
     button = InlineKeyboardMarkup([[
            InlineKeyboardButton("🚀 ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/UHDBots_Support")               
                ],[            
-           InlineKeyboardButton("🤗 ʜᴇʟᴩ", callback_data="help"),
            InlineKeyboardButton("🗿 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ™", url="https://t.me/UHD_NETWORK"),
+           InlineKeyboardButton("🤗 ʜᴇʟᴩ", callback_data="help"),
            InlineKeyboardButton("🤖 ᴀʙᴏᴜᴛ", callback_data="about") 
                ],[
            InlineKeyboardButton("📢 ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/UHD_Bots")
