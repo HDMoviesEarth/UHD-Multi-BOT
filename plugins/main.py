@@ -63,6 +63,7 @@ async def media_info(bot, m):
     if not md:
         buttons = [[
             InlineKeyboardButton("🚀 sᴜᴘᴘᴏʀᴛ", url="https://t.me/UHDBots_Support"),
+            InlineKeyboardButton("🗿 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ™", url="https://t.me/UHD_NETWORK"),
             InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇ", url="https://t.me/UHD_Bots")
         ]]       
         silicon = await m.reply("please wait....")
